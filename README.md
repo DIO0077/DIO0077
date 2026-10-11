@@ -1,4 +1,4 @@
-<h1> Hi, My Name is Dionas Jordan <br/><a href=https://github.com/DIO0077></h1>
+<h1> Hi, My Name is Dionas Jordan <br/>
 
 <h2>Software Development Projects:</h2>
 
@@ -9,6 +9,6 @@
 
 
 <h2>  Connect with me:</h2>
-[<img align="left" alt="DionasJordan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DionasJordan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 [linkedin]: :https://www.linkedin.com/in/dionasjordan/
