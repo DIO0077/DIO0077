@@ -8,8 +8,8 @@
     -[Anime Conventions](https://github.com/memphis-cs-projects/panda-s23)
 
 
-<h2>  Connect with me:</h2>
+<h2> Connect with me:</h2>
 [<img align="left" alt="dionasjordan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/dionasjordan/
+[linkedin]: https://linkedin.com/in/dionasjordan/
 
