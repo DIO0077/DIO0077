@@ -2,9 +2,9 @@
 
   <h2>Software Development Projects:</h2>
 
-<b>Pac Man Game</b>
+<h3>Pac Man Game</h3>
   [Pac Man](https://github.com/DIO0077/Pac-Man)
- <b> Anime Conventions Website</b>
+ <h4> Anime Conventions Website(using RubyonRails)</h4>
     [Anime Conventions](https://github.com/memphis-cs-projects/panda-s23)
 
 
