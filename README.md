@@ -4,7 +4,7 @@
 
 -<b>Pac Man Game</b>
   -[Pac Man](https://github.com/DIO0077/Pac-Man)
- -<b> Anime Conventions Website</b>
+ -<b2> Anime Conventions Website</b2>
     -[Anime Conventions](https://github.com/memphis-cs-projects/panda-s23)
 
 
