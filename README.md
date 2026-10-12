@@ -11,6 +11,9 @@
 <h2> Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/dionasjordan
 
+<h2>Resume:</h2>
+
+
 
 
 
