@@ -6,7 +6,7 @@
 
   [Pac Man](https://github.com/DIO0077/Pac-Man)
   
- <h3> Anime Conventions Website(using RubyonRails)</h3>
+ <h3> Anime Conventions Website Collab(using RubyonRails)</h3>
  
   [Anime Conventions](https://github.com/memphis-cs-projects/panda-s23)
 
