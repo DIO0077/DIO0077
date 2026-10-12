@@ -9,9 +9,10 @@
 
 
 <h2> Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/dionasjordan
 
-<h2>Resume:</h2>
+[Linkedin](https://linkedin.com/in/dionasjordan)
+
+[Resume](https://github.com/DIO0077/Resume)
 
 
 
